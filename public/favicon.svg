@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="16" fill="#1a1a2e"/>
+  <text x="64" y="82" font-family="system-ui, -apple-system, sans-serif" font-size="72" font-weight="700" fill="#e0e0e0" text-anchor="middle">V</text>
+  <style>
+    @media (prefers-color-scheme: light) {
+      rect { fill: #f0f0f5; }
+      text { fill: #1a1a2e; }
+    }
+  </style>
+</svg>
